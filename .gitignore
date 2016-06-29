@@ -1,0 +1,9 @@
+*.swp
+*.mp4
+*.part
+
+.DS_store
+
+*-*-*/
+
+original.py
